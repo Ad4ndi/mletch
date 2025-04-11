@@ -1,1 +1,2 @@
-Empty
+# mletch v1.0 
+Customizable CLI utility for displaying system information. It supports changing colors, separators, custom ASCII art and much more...
