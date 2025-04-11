@@ -41,6 +41,6 @@ let () =
     Printf.sprintf "%s%s%s" (label "Termsh") sep (value (shell ()))
   ] in
 
-  if ascii_file <> "" then output_info_with_ascii ascii_file info_lines logo
+  if ascii_file <> "" then output_ascii ascii_file info_lines logo
   else List.iter print_endline info_lines
 
