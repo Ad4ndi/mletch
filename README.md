@@ -5,7 +5,7 @@ Customizable CLI utility for displaying system information. It supports changing
 ```bash
 git clone https://github.com/Ad4ndi/mletch
 cd mletch
-ocamlopt -o mletch unix.cmxa utils.ml ascii.ml args.ml main.ml
+guile build.scm
 ```
 
 ## Usage
