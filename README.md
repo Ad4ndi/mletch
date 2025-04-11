@@ -27,5 +27,4 @@ mletch -i logo.txt -l -c ff8800 -p ff6600 -s " :: "
 ```
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/e4681c54-02ca-42f8-9129-68c50618f937)
-
+![image](https://github.com/user-attachments/assets/97c3ba70-fbbc-4d05-bcd0-fb61b977bd3e)
